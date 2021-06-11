@@ -1,0 +1,7 @@
+[package]
+org = "pubudu"
+name = "plaid_job_client"
+version = "0.1.0"
+
+[build-options]
+observabilityIncluded = false
